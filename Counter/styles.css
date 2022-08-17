@@ -1,0 +1,16 @@
+
+.html{
+    height: auto;   
+}
+
+.container{        
+    text-align: center;
+    /* display: flex; */
+}   
+
+.counter {
+
+    margin-top: 10px;
+    color: black;   
+    font-size: 100px;
+}
